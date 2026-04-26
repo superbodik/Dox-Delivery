@@ -42,7 +42,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/dox_delivery.git](https://github.com/YOUR_USERNAME/dox_delivery.git)
+   git clone [https://github.com/superbodik/Dox-Delivery.git](https://github.com/superbodik/Dox-Delivery.git)
    cd dox_delivery
 
     Install dependencies:
