@@ -29,14 +29,7 @@
 
 ---
 
-## Screenshots
 
-| Login Screen | OTP Verification |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/250x500?text=Login+Screen" width="250"> | <img src="https://via.placeholder.com/250x500?text=OTP+Screen" width="250"> |
-| *Sleek dark mode design* | *Smooth PIN entry* |
-
----
 
 ##  Getting Started
 
